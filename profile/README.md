@@ -1,6 +1,6 @@
 # Welcome to R523
 
-## What it is?
+## What is it?
 
 We are trying to learn and use IoT here by making smart things such as smart flower pot and etc.
 
